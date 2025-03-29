@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunku_modeler_manual=self.webpackChunku_modeler_manual||[]).push([[2368],{64991:l=>{l.exports=JSON.parse('{"label":"Rigging Tools","permalink":"/blog/tags/rigging-tools","allTagsPath":"/blog/tags","count":1}')}}]);

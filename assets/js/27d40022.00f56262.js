@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunku_modeler_manual=self.webpackChunku_modeler_manual||[]).push([[205],{33918:a=>{a.exports=JSON.parse('{"label":"Black Friday","permalink":"/blog/tags/black-friday","allTagsPath":"/blog/tags","count":1}')}}]);

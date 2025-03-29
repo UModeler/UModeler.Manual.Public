@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunku_modeler_manual=self.webpackChunku_modeler_manual||[]).push([[95383],{3483:a=>{a.exports=JSON.parse('{"label":"VR","permalink":"/blog/tags/vr","allTagsPath":"/blog/tags","count":1}')}}]);

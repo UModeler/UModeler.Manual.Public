@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunku_modeler_manual=self.webpackChunku_modeler_manual||[]).push([[961],{33688:e=>{e.exports=JSON.parse('{"permalink":"/blog/tags/unity-3-d","page":1,"postsPerPage":2,"totalPages":1,"totalCount":2,"blogDescription":"This is the official blog of UModeler!","blogTitle":"UModeler blog!"}')}}]);

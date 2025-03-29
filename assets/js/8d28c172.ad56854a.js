@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunku_modeler_manual=self.webpackChunku_modeler_manual||[]).push([[3681],{95245:e=>{e.exports=JSON.parse('{"label":"UModelerX-Update","permalink":"/blog/tags/u-modeler-x-update","allTagsPath":"/blog/tags","count":1}')}}]);

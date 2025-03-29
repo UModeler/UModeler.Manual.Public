@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunku_modeler_manual=self.webpackChunku_modeler_manual||[]).push([[95949],{10235:e=>{e.exports=JSON.parse('{"label":"Hotspot Texturing","permalink":"/blog/tags/hotspot-texturing","allTagsPath":"/blog/tags","count":1}')}}]);

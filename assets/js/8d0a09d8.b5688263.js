@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunku_modeler_manual=self.webpackChunku_modeler_manual||[]).push([[89821],{79569:a=>{a.exports=JSON.parse('{"label":"Blacksmith","permalink":"/blog/tags/blacksmith","allTagsPath":"/blog/tags","count":1}')}}]);

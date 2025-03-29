@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunku_modeler_manual=self.webpackChunku_modeler_manual||[]).push([[43452],{20398:e=>{e.exports=JSON.parse('{"permalink":"/blog/tags/u-modeler-x-plus","page":1,"postsPerPage":5,"totalPages":1,"totalCount":5,"blogDescription":"This is the official blog of UModeler!","blogTitle":"UModeler blog!"}')}}]);

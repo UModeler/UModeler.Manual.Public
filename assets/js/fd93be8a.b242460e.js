@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunku_modeler_manual=self.webpackChunku_modeler_manual||[]).push([[96926],{25574:e=>{e.exports=JSON.parse('{"label":"Cyber Week","permalink":"/blog/tags/cyber-week","allTagsPath":"/blog/tags","count":1}')}}]);

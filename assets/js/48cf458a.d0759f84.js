@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunku_modeler_manual=self.webpackChunku_modeler_manual||[]).push([[7337],{85722:e=>{e.exports=JSON.parse('{"label":"Code Monkey","permalink":"/blog/tags/code-monkey","allTagsPath":"/blog/tags","count":1}')}}]);
