@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunku_modeler_manual=self.webpackChunku_modeler_manual||[]).push([[86412],{49711:e=>{e.exports=JSON.parse('{"label":"Wendigo Hunter","permalink":"/ko/blog/tags/wendigo-hunter","allTagsPath":"/ko/blog/tags","count":1}')}}]);

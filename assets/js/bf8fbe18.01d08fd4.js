@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunku_modeler_manual=self.webpackChunku_modeler_manual||[]).push([[8587],{85014:e=>{e.exports=JSON.parse('{"name":"docusaurus-plugin-content-docs","id":"umodeler-x-template"}')}}]);

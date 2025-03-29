@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunku_modeler_manual=self.webpackChunku_modeler_manual||[]).push([[6088],{7399:e=>{e.exports=JSON.parse('{"label":"gamedev","permalink":"/ko/blog/tags/gamedev","allTagsPath":"/ko/blog/tags","count":1}')}}]);

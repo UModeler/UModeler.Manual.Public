@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunku_modeler_manual=self.webpackChunku_modeler_manual||[]).push([[1037],{71902:e=>{e.exports=JSON.parse('{"label":"metaverse","permalink":"/ko/blog/tags/metaverse","allTagsPath":"/ko/blog/tags","count":1}')}}]);
