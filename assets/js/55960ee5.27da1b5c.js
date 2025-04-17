@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunku_modeler_manual=self.webpackChunku_modeler_manual||[]).push([[74121],{88070:e=>{e.exports=JSON.parse('[{"label":"Curve Mesh","permalink":"/docs/tags/curve-mesh","count":7},{"label":"Modeling Mode","permalink":"/docs/tags/modeling-mode","count":1}]')}}]);
