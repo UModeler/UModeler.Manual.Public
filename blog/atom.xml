@@ -2,11 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://docs.umodeler.com/blog</id>
     <title>UModeler X Blog</title>
-    <updated>2025-03-29T00:00:00.000Z</updated>
+    <updated>2025-04-19T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://docs.umodeler.com/blog"/>
     <subtitle>UModeler X Blog</subtitle>
     <icon>https://docs.umodeler.com/img/favicon_UModeler.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2025 Unity Asset Store Spring]]></title>
+        <id>https://docs.umodeler.com/blog/spring-sale-2025</id>
+        <link href="https://docs.umodeler.com/blog/spring-sale-2025"/>
+        <updated>2025-04-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Don't miss out on up to 70% off UModeler X Plus, UModeler, and the Pro upgrade!]]></summary>
+        <content type="html"><![CDATA[<p><img loading="lazy" src="/assets/images/umodeler-spring-sale-2025-d884b21157ac641b33dee30647d4666f.webp" width="1726" height="1080" class="img_ev3q"></p><h1>🌸 The 2025 Unity Asset Store Spring Sale Has Begun!</h1><p>During this <strong>Spring Sale running until May 8</strong>, grab <strong>UModeler X Plus</strong> and <strong>UModeler</strong> at <strong>discounted prices</strong>.</p><p>With just a one-time purchase, you can <strong>own a powerful 3D modeling tool forever</strong>.</p><p>Check the table below for detailed discount information.  </p><table><thead><tr><th></th><th><strong>UModeler X Plus</strong></th><th><strong>UModeler</strong></th></tr></thead><tbody><tr><td><strong>Discount Rate</strong></td><td><strong>50%</strong></td><td><strong>70% (Apr 18)</strong> → <strong>60% (Apr 19)</strong> → <strong>50%</strong></td></tr><tr><td><strong>Features</strong></td><td>Upgraded UX/UI, high-poly modeling, SketchUp-style modeling, UV editing (including LSCM), rigging, painting</td><td>Low-poly modeling, SketchUp-style modeling, UV editing (LSCM not included)</td></tr><tr><td><strong>Asset Store Link</strong></td><td><a href="https://assetstore.unity.com/packages/tools/modeling/umodeler-x-plus-288107" target="_blank" rel="noopener noreferrer">👉 Go to UModeler X Plus</a></td><td><a href="https://assetstore.unity.com/packages/tools/modeling/umodeler-80868" target="_blank" rel="noopener noreferrer">👉 Go to UModeler</a></td></tr></tbody></table><hr><h2 class="anchor anchorWithStickyNavbar_LWe7" id="pro-version---upgrade-discount-available">Pro Version - Upgrade Discount Available<a href="#pro-version---upgrade-discount-available" class="hash-link" aria-label="Direct link to Pro Version - Upgrade Discount Available" title="Direct link to Pro Version - Upgrade Discount Available">​</a></h2><p>If you own <strong>UModeler X Plus or UModeler</strong>, you can upgrade to the <strong>recently released UModeler X Pro (1-year subscription)</strong> at <strong>50% off</strong>.</p><p><strong>Exclusive Pro Features:</strong></p><ul><li>Includes all features of UModeler X Plus  </li><li><strong>High-quality 3D templates worth $700</strong>  </li><li>Curve Mesh Editor  </li><li>Text Tool  </li><li>Edge Constraint Tool  </li><li>Quadify Tool  </li><li>More advanced tools to be added continuously  </li></ul><hr><h2 class="anchor anchorWithStickyNavbar_LWe7" id="-dont-miss-this-opportunity">⏰ Don’t Miss This Opportunity!<a href="#-dont-miss-this-opportunity" class="hash-link" aria-label="Direct link to ⏰ Don’t Miss This Opportunity!" title="Direct link to ⏰ Don’t Miss This Opportunity!">​</a></h2><p>This is a golden chance to get a powerful toolset at a <strong>great price</strong>—perfect for developers, designers, and creators alike.</p><p>If you’ve been needing a 3D modeling tool, <strong>now is the best time to get started</strong>.</p>]]></content>
+        <author>
+            <name>Jaesik Hwang</name>
+            <email>Jaesik.H@umodeler.com</email>
+        </author>
+        <category label="UModeler" term="UModeler"/>
+        <category label="UModelerX" term="UModelerX"/>
+        <category label="Unity" term="Unity"/>
+        <category label="3DModeling" term="3DModeling"/>
+        <category label="Asset" term="Asset"/>
+        <category label="License" term="License"/>
+        <category label="Update" term="Update"/>
+        <category label="3dsMax" term="3dsMax"/>
+        <category label="Maya" term="Maya"/>
+        <category label="Photoshop" term="Photoshop"/>
+        <category label="SpringSale" term="SpringSale"/>
+        <category label="UnityAssetStore" term="UnityAssetStore"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[UModeler X Pro Release and Q1 2025 Update]]></title>
         <id>https://docs.umodeler.com/blog/umodeler-x-pro-q1-2025-update</id>
