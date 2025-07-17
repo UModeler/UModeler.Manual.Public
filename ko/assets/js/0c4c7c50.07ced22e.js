@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunku_modeler_manual=self.webpackChunku_modeler_manual||[]).push([[3043],{74788:e=>{e.exports=JSON.parse('{"label":"SummerSale","permalink":"/ko/blog/tags/summer-sale","allTagsPath":"/ko/blog/tags","count":1}')}}]);

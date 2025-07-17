@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunku_modeler_manual=self.webpackChunku_modeler_manual||[]).push([[31791],{20244:a=>{a.exports=JSON.parse('{"label":"Promotion","permalink":"/blog/tags/promotion","allTagsPath":"/blog/tags","count":1}')}}]);
