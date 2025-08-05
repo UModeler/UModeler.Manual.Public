@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunku_modeler_manual=self.webpackChunku_modeler_manual||[]).push([[75961],{62539:e=>{e.exports=JSON.parse('{"permalink":"/blog/tags/discount","page":1,"postsPerPage":1,"totalPages":1,"totalCount":1,"blogDescription":"This is the official blog of UModeler!","blogTitle":"UModeler blog!"}')}}]);

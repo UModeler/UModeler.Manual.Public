@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunku_modeler_manual=self.webpackChunku_modeler_manual||[]).push([[42490],{75045:e=>{e.exports=JSON.parse('{"label":"IndieDev","permalink":"/ko/blog/tags/indie-dev","allTagsPath":"/ko/blog/tags","count":1}')}}]);
