@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunku_modeler_manual=self.webpackChunku_modeler_manual||[]).push([[23381],{64923:e=>{e.exports=JSON.parse('{"permalink":"/blog/tags/unity","page":1,"postsPerPage":9,"totalPages":1,"totalCount":9,"blogDescription":"This is the official blog of UModeler!","blogTitle":"UModeler blog!"}')}}]);
