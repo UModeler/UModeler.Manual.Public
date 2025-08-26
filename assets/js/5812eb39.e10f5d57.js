@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunku_modeler_manual=self.webpackChunku_modeler_manual||[]).push([[80622],{45876:e=>{e.exports=JSON.parse('{"permalink":"/blog/tags/wanna-be-pro","page":1,"postsPerPage":2,"totalPages":1,"totalCount":2,"blogDescription":"This is the official blog of UModeler!","blogTitle":"UModeler blog!"}')}}]);
