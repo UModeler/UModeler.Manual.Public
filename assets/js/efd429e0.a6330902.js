@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunku_modeler_manual=self.webpackChunku_modeler_manual||[]).push([[26048],{21817:e=>{e.exports=JSON.parse('{"permalink":"/blog/tags/indie-dev","page":1,"postsPerPage":4,"totalPages":1,"totalCount":4,"blogDescription":"This is the official blog of UModeler!","blogTitle":"UModeler blog!"}')}}]);

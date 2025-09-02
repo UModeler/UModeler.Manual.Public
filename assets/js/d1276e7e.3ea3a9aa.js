@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunku_modeler_manual=self.webpackChunku_modeler_manual||[]).push([[94549],{94170:a=>{a.exports=JSON.parse('{"label":"Casual Game","permalink":"/blog/tags/casual-game","allTagsPath":"/blog/tags","count":1}')}}]);
